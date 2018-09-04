@@ -1,4 +1,5 @@
 # Udemy-100-Algorithms-Challenge
-Dylan Israel Udemy Course
+Dylan Israel Udemy Course - practice algo challenges
 
--  updated
+# Programs Used
+- Visual Studio Code
