@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
+=======
+
+>>>>>>> 7fe8a91a76607122c07506c310e6eac86a12b0c4
 ---
 Given a sorted array of integers a, find an integer x from a such that the value of
 
@@ -36,4 +40,8 @@ A non-empty array of integers, sorted in ascending order.
 
 -106 ≤ a[i] ≤ 106.
 
+<<<<<<< HEAD
 - **[output] integer**
+=======
+- **[output] integer**
+>>>>>>> 7fe8a91a76607122c07506c310e6eac86a12b0c4
